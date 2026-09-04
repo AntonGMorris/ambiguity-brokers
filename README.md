@@ -4,6 +4,7 @@ Code and data release for **"Ambiguity Brokers: A Functional Role for Polysemant
 
 ## What's here
 
+- `ambiguity_brokers_paper.pdf` — the full research report (submitted for MATS Winter 2027, Nanda Stream).
 - `ambiguity_brokers_pipeline.py` — the complete experimental pipeline (setup + SAE feature injection + broker survey), designed for Google Colab. Toggles at the top control which phases run.
 
 ## Setup
